@@ -1,5 +1,9 @@
-body {
+.pagina-principal {
     font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #ede9c6; 
 }
 
 header {
@@ -8,6 +12,11 @@ header {
 
 h1 {
     color: #5a5a5a;
+}
+
+h3 {
+    font-family: cursive;
+    color:lightsalmon
 }
 
 footer {
